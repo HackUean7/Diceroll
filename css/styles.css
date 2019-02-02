@@ -1,0 +1,97 @@
+body {
+	margin: 0 auto !important;
+	width: 80%;
+	background: url("../bg.jpg");
+	padding: 0;
+}
+.left {
+	width: 50%;
+	float: left;
+	padding: 10%;
+	height: 500px;
+}
+.right {
+	width: 50%;
+	float: right;
+	padding: 10%;
+	height: 500px;
+}
+.clicker{
+	background: #1abc9c;
+	color: #fff;
+	font-family: 'Impact';
+	font-size: 23px;
+	margin: 20px;
+	float: left;
+	width: 200px;
+	height: 100px !important;
+}
+.dice {
+	width: 100px;
+	height: 100px;
+	*background:#e67e22;
+	margin: 20px;
+	opacity: 0.8;
+	background-size: 100px 100px;
+	}
+.controls{
+margin: 0 auto;
+width: 60%;
+}
+.active {
+background: rgba(236,240,241,0.5);
+
+}
+.btn-left {
+	float: left;
+}
+.btn-right {
+	float: right;
+}
+.mainScore1{
+width: 100%;
+height: 200px;	
+background: rgba(192, 57, 43,0.6);
+margin: 20px 0px;
+text-align:center;	
+font-family: 'Impact';
+font-size: 34px;
+color: #ecf0f1;
+padding: 25%;
+
+}
+.mainScore2 {
+width: 100%;
+height: 200px;	
+background: rgba(192, 57, 43,0.6);
+margin: 20px 0px;
+text-align:center;	
+font-family: 'Impact';
+font-size: 34px;
+color: #ecf0f1;
+padding: 25%;
+}
+.currentScore1{
+	width: 200px;
+	height: 100px;
+	background: #e74c3c;
+	margin: 0 auto;		
+	text-align:center;	
+	font-family: 'Impact';
+	font-size: 34px;
+	color: #ecf0f1;
+	padding: 25px;
+
+}
+.currentScore2{
+	width: 200px;
+	height: 100px;
+	background: #e74c3c;
+	margin: 0 auto;		
+	text-align:center;	
+	font-family: 'Impact';
+	font-size: 34px;
+	color: #ecf0f1;
+	padding: 25px;
+
+}
